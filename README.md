@@ -19,6 +19,12 @@ IEEE ISCAS, May 2021, Daegu, South Korea. <br>
 
 
 ### How it works
+第一阶段的中文学习报告、理解代码和五组对照实验结果见
+[`commit1/`](commit1/README.md)。
+
+For a containerized build and Chinese reproduction instructions, see
+[Docker setup](docker/README_ZH.md) and [reproduction notes](REPRODUCTION_ZH.md).
+
 From the terminal:
 * Run all
 	```"bash"
